@@ -66,7 +66,3 @@ This codebase was tested with Python 3.6, Pytorch 1.1.0, torchvision 0.3, CUDA 1
     ```
 
 - Results will be saved in `result/` folder.
-
-
-### Acknowledgemen
-In this project, some codes which process the data and eval the model are built upon [VS-GATs: Visual-Semantic Graph Attention Networks for Human-Object Interaction Detecion](https://github.com/birlrobotics/vs-gats), [ECCV2018-Learning Human-Object Interactions by Graph Parsing Neural Networks](https://github.com/SiyuanQi/gpnn) and [ICCV2019-No-Frills Human-Object Interaction Detection: Factorization, Layout Encodings, and Training Techniques](https://github.com/BigRedT/no_frills_hoi_det). Thanks them for their great works.
