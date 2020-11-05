@@ -1,12 +1,6 @@
 # Pose-based Modular Network for Human-Object Interaction Detection
 
 <!---------------------------------------------------------------------------------------------------------------->
-
-<!---------------------------------------------------------------------------------------------------------------->
-## Code Overview
-In this project, we implement our method based on [VS-GATs](https://github.com/birlrobotics/vs-gats). The structure of the code in this project is similar to VS-GATs. You can check it for the description of each file.
-
-<!---------------------------------------------------------------------------------------------------------------->
 ## Getting Started
 
 ### Prerequisites
