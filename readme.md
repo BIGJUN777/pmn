@@ -10,7 +10,7 @@ This codebase was tested with Python 3.6, Pytorch 1.1.0, torchvision 0.3, CUDA 1
 1. Clone this repository.   
 
     ```
-    git clone https://github.com/birlrobotics/PMN.git
+    git clone https://github.com/BIGJUN777/pmn.git
     ```
   
 2. Install Python dependencies:   
